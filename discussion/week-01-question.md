@@ -1,5 +1,5 @@
 ---
-id: w01-jingyi64-ai-skills
+id: w01-jingyi64-aiskills
 title: "Skills in an AI-Driven Future"
 author: "Jingyi Yang (jingyi64)"
 ---
