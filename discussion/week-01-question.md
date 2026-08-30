@@ -1,7 +1,7 @@
 ---
-id: w01-jingyiyang771-ai-skills
+id: w01-jingyi64-ai-skills
 title: "Skills in an AI-Driven Future"
-author: "Jingyi Yang (JingyiYang771)"
+author: "Jingyi Yang (jingyi64)"
 ---
 
 As AI becomes capable of completing more and more tasks for us, what are the most important skills we still need to learn, and why?
